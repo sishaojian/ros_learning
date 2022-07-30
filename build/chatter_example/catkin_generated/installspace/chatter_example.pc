@@ -1,0 +1,8 @@
+prefix=/home/ssj/ROS/install
+
+Name: chatter_example
+Description: Description of chatter_example
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs message_runtime rospy gometry_msgs

@@ -1,0 +1,2 @@
+chatter_example
+-DCATKIN_DEVEL_PREFIX=/home/ssj/ROS/devel -DCMAKE_INSTALL_PREFIX=/home/ssj/ROS/install -G Unix Makefiles
