@@ -1,2 +1,2 @@
-chatter_example
+chatter_example:service_example
 -DCATKIN_DEVEL_PREFIX=/home/ssj/ROS/devel -DCMAKE_INSTALL_PREFIX=/home/ssj/ROS/install -G Unix Makefiles
