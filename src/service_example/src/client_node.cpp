@@ -1,6 +1,6 @@
 #include "ros/ros.h"
 #include "service_example/AddTwoInts.h"
-#include "service_example/AddTwoIntsRequest.h"
+//#include "service_example/AddTwoIntsRequest.h"
 
 int main(int argc,char **argv)
 {

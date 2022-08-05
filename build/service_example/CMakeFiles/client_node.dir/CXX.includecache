@@ -51,8 +51,6 @@ ros/ros.h
 /home/ssj/ROS/src/service_example/src/ros/ros.h
 service_example/AddTwoInts.h
 /home/ssj/ROS/src/service_example/src/service_example/AddTwoInts.h
-service_example/AddTwoIntsRequest.h
-/home/ssj/ROS/src/service_example/src/service_example/AddTwoIntsRequest.h
 
 /opt/ros/melodic/include/ros/advertise_options.h
 ros/forwards.h
